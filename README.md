@@ -14,7 +14,8 @@ Mirror and control your Android device from your PC with Scrcpy – the ultimate
 ## How To Install:
 
 ### Step 1:
-Download Scrcpy from this repository.
+Download the version of Scrcpy suitable for your operating system from this repository.
+The most common scrcpy-win64-v3.1.zip for Windows
 
 ### Step 2:
 Extract the files and download the program for your operating system
