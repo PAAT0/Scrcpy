@@ -28,7 +28,7 @@ not ready
 
 ## Note: 
 If Scrcpy doesn't work, use this command:
-# scrcpy -s <device_id>
+scrcpy -s <device_id>
 
 # Disclaimer ⚠️
 Scrcpy is an open-source tool developed by Genymobile. This guide is for educational purposes only. Support the official project by following their updates! 🚀
