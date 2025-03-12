@@ -15,6 +15,7 @@ Mirror and control your Android device from your PC with Scrcpy – the ultimate
 
 ### Step 1:
 Download the version of Scrcpy suitable for your operating system from this repository.
+
 The most common scrcpy-win64-v3.1.zip for Windows
 
 ### Step 2:
