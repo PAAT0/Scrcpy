@@ -1,4 +1,3 @@
-# Scrcpy
 # Share your mobile screen on PC seamlessly 📲💻 | Easy &amp; fast screen mirroring!
 
 Mirror and control your Android device from your PC with Scrcpy – the ultimate open-source tool for seamless screen sharing and remote control. Enjoy low-latency, high-performance mirroring without the need for root access!
